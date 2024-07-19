@@ -1,0 +1,64 @@
+{
+  "datas": [
+    {
+      "id": "32ob34",
+      "firstName": "Julien",
+      "LastName": "Dubois",
+      "email": "j.dubois@gmail.com",
+      "birthDay": "23/12/1998"
+    },
+    {
+      "id": "a462",
+      "firstName": "Ange",
+      "lastName": "Kouassi",
+      "email": "2kange.eli@gmail.com",
+      "birthDay": "2024-07-20"
+    },
+    {
+      "id": "3b40",
+      "firstName": "Ange Elisée",
+      "lastName": "Kadio",
+      "email": "2kange.eli@gmail.com",
+      "birthDay": "2024-07-27"
+    },
+    {
+      "id": "5be5",
+      "firstName": "mario",
+      "lastName": "markus",
+      "email": "admin@legafrik.com",
+      "birthDay": "2024-07-05"
+    },
+    {
+      "id": "ca15",
+      "firstName": "Baloteli",
+      "lastName": "Mario",
+      "email": "2kange.eli@gmail.com",
+      "birthDay": "2024-07-12",
+      "createdAt": ""
+    },
+    {
+      "id": "d755",
+      "firstName": "Donald",
+      "lastName": "Trump",
+      "email": "admin@legafrik.com",
+      "birthDay": "2024-07-27",
+      "createdAt": 1721396593313
+    },
+    {
+      "id": "e683",
+      "firstName": "Ange Elisée",
+      "lastName": "nouveau",
+      "email": "admin@legafrik.com",
+      "birthDay": "2024-07-20",
+      "createdAt": 1721396788891
+    },
+    {
+      "id": "c033",
+      "firstName": "Ange Elisée",
+      "lastName": "markus",
+      "email": "clara@gmail.com",
+      "birthDay": "2024-07-06",
+      "createdAt": 1721396865077
+    }
+  ]
+}
